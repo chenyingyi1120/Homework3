@@ -1,0 +1,3 @@
+useDynLib(AcceProximal)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
